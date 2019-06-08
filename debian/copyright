@@ -1,0 +1,18 @@
+Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=135
+Name: ttf oldskool fonts
+Maintainer: Andrew Bird <ajb@spheresystems.co.uk>
+Source: https://github.com/andrewbird/oldskool-fonts
+
+
+Files: debian/*
+Copyright: 2019 Andrew Bird
+License: GPL-3+
+ The Debian packaging additions in this package are distributed under
+ the terms of the GNU General Public License, version 3 or later. The
+ text of the license is available on Debian systems in the
+ /usr/share/common-licenses/GPL-3 file.
+
+Files: Flexi_IBM_VGA9-Fonts/*
+Copyright: 2019 VileR https://int10.org
+License: CC-BY-SA-4.0
+ Attribution in Flexi_IBM_VGA9-Fonts/README.TXT

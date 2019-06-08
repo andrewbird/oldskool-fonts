@@ -1,0 +1,15 @@
+Source: ttf-oldskool-fonts
+Section: fonts
+Priority: optional
+Maintainer: Andrew Bird <ajb@spheresystems.co.uk>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.1.4
+Homepage: https://int10h.org/oldschool-pc-fonts/
+
+Package: ttf-oldskool-fonts
+Architecture: all
+Provides: ttf-oldskool-fonts
+Replaces: ttf-oldskool-fonts
+Depends:  ${misc:Depends}
+Description: Classic text mode fonts, system fonts and BIOS fonts
+ from DOS-era IBM PCs and compatibles
